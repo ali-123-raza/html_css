@@ -3,5 +3,5 @@
 1. Red Button
 2. Green Button
 3. Blue Button
-5. Gray Button
-6. Yellow Button
+4. Gray Button
+5. Yellow Button
